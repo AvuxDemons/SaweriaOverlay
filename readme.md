@@ -8,6 +8,8 @@ Tingkatkan pengalaman donasi Anda dengan Saweria Custom Overlay Donation Alert! 
 
 Berikut merupakan cara menggunakan Custom Overlay Saweria
 
+### Video Tutorial : [Kunjungi Youtube](https://youtu.be/0WX_8fRhntM)
+
 ### Setup Saweria
 1. Cara Akses Custom Overlay Saweria
     ![anya_peek](https://saweria.co/custom-overlay-access.png)
