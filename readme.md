@@ -6,17 +6,26 @@ Tingkatkan pengalaman donasi Anda dengan Saweria Custom Overlay Donation Alert! 
 
 # Usage
 
-Cara Menggunakan Custom Overlay
+Berikut merupakan cara menggunakan Custom Overlay Saweria
 
-1. Cara akses Custom Overlay 
-
+1. Cara Akses Custom Overlay Saweria
     ![anya_peek](https://saweria.co/custom-overlay-access.png)
-
-    Buka halaman pengaturan overlay saweria dan klik custom pada ujung kanan atas dialog Tampilan seperti gambar diatas
-
+    Buka halaman [pengaturan overlay saweria](https://saweria.co/overlays) dan klik custom pada ujung kanan atas dialog Tampilan seperti gambar diatas
 2. Pilih Tema Custom Saweria Overlay Pada [Theme Preview](#theme-preview)
-3. Klik Pada Nama Tema Yang Akan Digunakan
-4. 
+3. Klik Pada Nama Tema Yang Akan Digunakan 
+    ![Select](https://media.discordapp.net/attachments/972016247795515454/1126400261649338408/image.png)
+4. Klik File `index.html` Dan Copy / Salin Mulai Dari `<div> Sampai </div>`
+    ![copy html](https://cdn.discordapp.com/attachments/972016247795515454/1126400984889954384/image.png)
+    Kemudian Paste / Tempel Pada Kolom `HTML` di halaman pengaturan overlay saweria
+5. Copy / Salin Teks Dibawah Ini Dan Paste / Tempel Pada Kolom `CSS` di halaman pengaturan overlay saweria
+    ```
+    @import url("URL_STYLE.CSS");
+    ```
+6. Klik File `style.css` Dan Klik Pada Button `Raw`
+    ![raw](https://media.discordapp.net/attachments/972016247795515454/1126402516452655195/image.png)
+    Copy / Salin URL.
+7. Kemudian Replace `URL_STYLE.CSS` Pada Kolom `CSS` di halaman pengaturan overlay saweria Dengan URL yang telah anda copy / salin
+8. Klik `Simpan Tampilan` & Custom Saweria Overlay Anda Siap Digunakan 
 
 # Theme Preview
 
