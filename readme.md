@@ -25,59 +25,59 @@ Berikut merupakan cara menggunakan Custom Overlay Saweria
 
 # Theme Preview
 
-### [Anya Peeking | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
+### [Anya Peeking | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek){:target="_blank"}
 
 ![anya_peek](https://media.discordapp.net/attachments/972016247795515454/1126384061687025714/anyapeek.png)
 
-### [Anya Waku | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
+### [Anya Waku | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek){:target="_blank"}
 
 ![anya_waku](https://cdn.discordapp.com/attachments/972016247795515454/1126384901869031504/anyawaku.png)
 
-### [Azusa](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/azusa)
+### [Azusa](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/azusa){:target="_blank"}
 
 ![azusa](https://media.discordapp.net/attachments/972016247795515454/1126388002743132240/azusa.png)
 
-### [Emilia](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/emilia)
+### [Emilia](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/emilia){:target="_blank"}
 
 ![emilia](https://media.discordapp.net/attachments/972016247795515454/1126388003066085446/emilia.png)
 
-### [Gojo | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/gojo)
+### [Gojo | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/gojo){:target="_blank"}
 
 ![gojo](https://media.discordapp.net/attachments/972016247795515454/1126388003506507806/gojo.png)
 
-### [JDM](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/jdm)
+### [JDM](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/jdm){:target="_blank"}
 
 ![jdm](https://media.discordapp.net/attachments/972016247795515454/1126388005695934535/jdm.png)
 
-### [Mio](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mio)
+### [Mio](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mio){:target="_blank"}
 
 ![mio](https://media.discordapp.net/attachments/972016247795515454/1126388004802527242/mio.png)
 
-### [Mugi](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mugi)
+### [Mugi](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mugi){:target="_blank"}
 
 ![mugi](https://media.discordapp.net/attachments/972016247795515454/1126388004534100018/mugi.png)
 
-### [Nezuko | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/nezuko)
+### [Nezuko | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/nezuko){:target="_blank"}
 
 ![nezuko](https://media.discordapp.net/attachments/972016247795515454/1126388004248899605/nezuko.png)
 
-### [Osakana | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/osakana)
+### [Osakana | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/osakana){:target="_blank"}
 
 ![osakana](https://media.discordapp.net/attachments/972016247795515454/1126388003938508860/osakana.png)
 
-### [Rem](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/rem)
+### [Rem](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/rem){:target="_blank"}
 
 ![rem](https://media.discordapp.net/attachments/972016247795515454/1126388125967601726/rem.png)
 
-### [Ritsu](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/ritsu)
+### [Ritsu](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/ritsu){:target="_blank"}
 
 ![ritsu](https://media.discordapp.net/attachments/972016247795515454/1126388125585907743/ritsu.png)
 
-### [Sakura](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/sakura)
+### [Sakura](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/sakura){:target="_blank"}
 
 ![sakura](https://media.discordapp.net/attachments/972016247795515454/1126388125275541584/sakura.png)
 
-### [Yui](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/yui)
+### [Yui](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/yui){:target="_blank"}
 
 ![yui](https://media.discordapp.net/attachments/972016247795515454/1126388126332502047/yui.png)
 
