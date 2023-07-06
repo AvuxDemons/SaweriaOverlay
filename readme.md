@@ -1,68 +1,78 @@
 # About
 
-<p style="font-size: 2.5rem;"> Saweria Custom Overlay </p>
-
 ![Osakana](https://media.discordapp.net/attachments/972016247795515454/1126388003938508860/osakana.png)
 
 Tingkatkan pengalaman donasi Anda dengan Saweria Custom Overlay Donation Alert! Ubah tampilan dan pesan donasi secara kreatif, sampaikan apresiasi secara real-time, dan buat pengalaman donasi yang tak terlupakan. Coba sekarang dan berikan sentuhan khusus pada setiap donasi yang masuk!
 
 # Usage
 
+Cara Menggunakan Custom Overlay
+
+1. Cara akses Custom Overlay 
+
+    ![anya_peek](https://saweria.co/custom-overlay-access.png)
+
+    Buka halaman pengaturan overlay saweria dan klik custom pada ujung kanan atas dialog Tampilan seperti gambar diatas
+
+2. Pilih Tema Custom Saweria Overlay Pada [Theme Preview](#theme-preview)
+3. Klik Pada Nama Tema Yang Akan Digunakan
+4. 
+
 # Theme Preview
 
-### Anya Peeking | GIF
+### [Anya Peeking | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
 
 ![anya_peek](https://media.discordapp.net/attachments/972016247795515454/1126384061687025714/anyapeek.png)
 
-## Anya Waku | GIF
+### [Anya Waku | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
 
 ![anya_waku](https://cdn.discordapp.com/attachments/972016247795515454/1126384901869031504/anyawaku.png)
 
-## Azusa
+### [Azusa](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/azusa)
 
 ![azusa](https://media.discordapp.net/attachments/972016247795515454/1126388002743132240/azusa.png)
 
-## Emilia
+### [Emilia](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/emilia)
 
 ![emilia](https://media.discordapp.net/attachments/972016247795515454/1126388003066085446/emilia.png)
 
-## Gojo | GIF
+### [Gojo | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/gojo)
 
 ![gojo](https://media.discordapp.net/attachments/972016247795515454/1126388003506507806/gojo.png)
 
-## JDM
+### [JDM](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/jdm)
 
 ![jdm](https://media.discordapp.net/attachments/972016247795515454/1126388005695934535/jdm.png)
 
-## Mio
+### [Mio](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mio)
 
 ![mio](https://media.discordapp.net/attachments/972016247795515454/1126388004802527242/mio.png)
 
-## Mugi
+### [Mugi](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mugi)
 
 ![mugi](https://media.discordapp.net/attachments/972016247795515454/1126388004534100018/mugi.png)
 
-## Nezuko | GIF
+### [Nezuko | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/nezuko)
 
 ![nezuko](https://media.discordapp.net/attachments/972016247795515454/1126388004248899605/nezuko.png)
 
-## Osakana | GIF
+### [Osakana | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/osakana)
 
 ![osakana](https://media.discordapp.net/attachments/972016247795515454/1126388003938508860/osakana.png)
 
-## Rem
+### [Rem](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/rem)
 
 ![rem](https://media.discordapp.net/attachments/972016247795515454/1126388125967601726/rem.png)
 
-## Ritsu
+### [Ritsu](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/ritsu)
 
 ![ritsu](https://media.discordapp.net/attachments/972016247795515454/1126388125585907743/ritsu.png)
 
-## Sakura
+### [Sakura](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/sakura)
 
 ![sakura](https://media.discordapp.net/attachments/972016247795515454/1126388125275541584/sakura.png)
 
-## Yui
+### [Yui](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/yui)
 
 ![yui](https://media.discordapp.net/attachments/972016247795515454/1126388126332502047/yui.png)
 
