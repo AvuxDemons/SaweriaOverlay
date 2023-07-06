@@ -1,32 +1,16 @@
-<center>
-    <span style="font-size: 2rem"> SAWERIA CUSTOM OVERLAY </span>
-    <br>
-    <span> Customize Your Saweria Donation Alert Overlay  </span>
-    <br>
-    <br>
-</center>
-
----
-
-<br>
-<br>
-
 # About
 
-<center>
+<p style="font-size: 2.5rem;"> Saweria Custom Overlay </p>
 
 ![Osakana](https://media.discordapp.net/attachments/972016247795515454/1126388003938508860/osakana.png)
-
-</center>
 
 Tingkatkan pengalaman donasi Anda dengan Saweria Custom Overlay Donation Alert! Ubah tampilan dan pesan donasi secara kreatif, sampaikan apresiasi secara real-time, dan buat pengalaman donasi yang tak terlupakan. Coba sekarang dan berikan sentuhan khusus pada setiap donasi yang masuk!
 
 # Usage
 
 # Theme Preview
-<center>
 
-## Anya Peeking | GIF
+### Anya Peeking | GIF
 
 ![anya_peek](https://media.discordapp.net/attachments/972016247795515454/1126384061687025714/anyapeek.png)
 
@@ -82,42 +66,45 @@ Tingkatkan pengalaman donasi Anda dengan Saweria Custom Overlay Donation Alert! 
 
 ![yui](https://media.discordapp.net/attachments/972016247795515454/1126388126332502047/yui.png)
 
-</center>
-
 ---
 
 # Documentation
-- [Configuration](#configuration)
+* [Configuration](#configuration)
     - [Background Images](#background-images)
     - [Custom Mascot](#custom-mascot)
     - [Custom Text](#custom-text)
     - [Custom Color](#custom-color)
-- [Miscellaneous](#miscellaneous)
+* [Miscellaneous](#miscellaneous)
     - [Contributing](#contributing)
     - [Theme Requests](#theme-requests)
     - [Feature Requests](#contributions)
-
 # Configuration
 
 ## Background Images
-- SOON
+
+* SOON
 
 ## Custom Mascot
-- SOON
+
+* SOON
 
 ## Custom Text
-- SOON
+
+* SOON
 
 ## Custom Color
-- SOON
 
+* SOON
 # Miscellaneous
 
 ## Contributing
+
 Repository ini dibuka untuk umum , Anda dapat berkontribusi juga pada Repository ini.
 
 ## Theme Requests
+
 Tidak menemukan overlay dengan tema keinginan anda ? Silahkan untuk [submit theme request](https://github.com/AvuxDemons/SaweriaOverlay/issues).
 
 ## Feature Requests
+
 Anda memiliki saran / fitur untuk Repository ini ? Silahkan untuk [submit feature request](https://github.com/AvuxDemons/SaweriaOverlay/issues).
