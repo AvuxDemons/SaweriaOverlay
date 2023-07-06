@@ -1,16 +1,15 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
 
     .container {
         display: grid;
         grid-template-columns: 0fr 10fr;
-        gap: 20px;
+        /* gap: 20px; */
         font-family: 'Poppins', sans-serif;
         position: relative;
         max-width: 750px;
         margin: 150px auto !important;
-        padding: 10px 30px;
-        background-image: url('https://wallpapercave.com/dwp1x/wp11004915.jpg');
+        padding: 0px 30px;
+        background-image: url('https://c4.wallpaperflare.com/wallpaper/621/100/28/spy-x-family-anya-forger-hd-wallpaper-preview.jpg');
         background-size: cover;
         background-position: center;
         border-radius: 15px;
@@ -35,9 +34,13 @@
         color: rgb(255, 255, 255);
         text-align: center;
         font-size: 1.3rem;
-        font-weight: 600;
-        letter-spacing: 1px;
+        font-weight: 550;
+        letter-spacing: 0.8px;
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    .text .message {
+        line-height: 120%;
     }
 
     .saweria {
@@ -46,35 +49,16 @@
 
     .mascot {
         position: absolute;
-        top: -131px;
-        right: -85px;
-        transform: translateX(-50%);
+        top: -115px;
+        left: 155px;
+        transform: translateX(50%);
         display: flex;
         justify-content: center;
         align-items: flex-start;
     }
 
     .mascot img {
-        max-width: 35%;
+        max-width: 60%;
         height: auto;
         filter: drop-shadow(3px 0 4px rgba(0, 0, 0, 0.8));
     }
-</style>
-
-<div class="container">
-    <div class="mascot">
-        <img src="https://cdn.discordapp.com/attachments/972016247795515454/1125400687866564739/giphy.webp">
-    </div>
-    <div class="left">
-        <!-- empty -->
-    </div>
-    <div class="right">
-        <div class="text">
-            <p>
-                <span class="saweria">{amount}</span> Dari <span class="saweria">{donator}</span>
-                <br>
-                {message}
-            </p>
-        </div>
-    </div>
-</div>
