@@ -1,0 +1,31 @@
+@keyframes wave {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+
+/* PILIH SALAH SATU */
+
+/* 1. SELURUH TEXT */
+.text p {
+    animation: wave 1s ease-in-out infinite;
+}
+
+/* 2. HANYA PESAN */
+.message {
+    animation: wave 1s ease-in-out infinite;
+}
+
+/* 3. HANYA DONATION AMOUNT */
+.text p:first-of-type {
+    animation: wave 1s ease-in-out infinite;
+}

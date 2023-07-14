@@ -63,10 +63,10 @@
 }
 
 .mascot img {
-    animation: nezuko 8s ease-in-out infinite normal;
+    animation: run 8s ease-in-out infinite normal;
 }
 
-@keyframes nezuko {
+@keyframes run {
     0% {
         transform: translateX(0px) rotateY(0deg);
     }
