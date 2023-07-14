@@ -44,13 +44,13 @@
 }
 
 .saweria {
-    color: rgba(225,116,173);
+    color: rgba(225, 116, 173);
 }
 
 .mascot {
     position: absolute;
     top: -140px;
-    left: -450px;
+    right: -450px;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -60,4 +60,30 @@
     max-width: 20%;
     height: auto;
     filter: drop-shadow(3px 0 4px rgba(0, 0, 0, 0.8));
+}
+
+.mascot img {
+    animation: nezuko 8s ease-in-out infinite normal;
+}
+
+@keyframes nezuko {
+    0% {
+        transform: translateX(0px) rotateY(0deg);
+    }
+
+    48% {
+        transform: translateX(-660px) rotateY(0deg);
+    }
+
+    53% {
+        transform: translateX(-660px) rotateY(-180deg);
+    }
+
+    97% {
+        transform: translateX(0px) rotateY(-180deg);
+    }
+
+    100% {
+        transform: translateX(0px) rotateY(0deg);
+    }
 }
