@@ -4,26 +4,44 @@
 
 Tingkatkan pengalaman donasi Anda dengan Saweria Custom Overlay Donation Alert! Ubah tampilan dan pesan donasi secara kreatif, sampaikan apresiasi secara real-time, dan buat pengalaman donasi yang tak terlupakan. Coba sekarang dan berikan sentuhan khusus pada setiap donasi yang masuk!
 
-# Usage
+
+# Usage / Installation
 
 Berikut merupakan cara menggunakan Custom Overlay Saweria
+#### Video : [Tonton Video Tutorial Di Youtube](https://youtu.be/I2QZUQXBTsE)
+<br>
 
-### Video Tutorial : [Kunjungi Youtube](https://youtu.be/0WX_8fRhntM)
-
-### Setup Saweria
-1. Cara Akses Custom Overlay Saweria
+## Setup Custom Overlay Saweria
+### [+] Saweria
+1. Cara akses Custom Overlay Saweria
     ![anya_peek](https://saweria.co/custom-overlay-access.png)
     Buka halaman [pengaturan overlay saweria](https://saweria.co/overlays) dan klik custom pada ujung kanan atas dialog Tampilan seperti gambar diatas
-2. Pilih Tema Custom Saweria Overlay Pada [Theme Preview](#theme-preview)
-3. Klik Pada Nama Tema Yang Akan Digunakan 
+    
+### [+] Tema
+2. Pilih tema Custom Saweria Overlay pada [Theme Preview](#theme-preview)
+3. Klik Pada nama tema yang akan digunakan 
     ![Select](https://media.discordapp.net/attachments/972016247795515454/1126400261649338408/image.png)
-4. Klik File `index.html` Dan Copy / Salin Mulai Dari `<div> Sampai </div>`
+4. Klik File `index.html` Dan Copy / Salin seluruhnya atau mulai dari `<div> sampai </div>`
     ![copy html](https://cdn.discordapp.com/attachments/972016247795515454/1126400984889954384/image.png)
-    Kemudian Paste / Tempel Pada Kolom `HTML` di halaman pengaturan overlay saweria
-6. Klik File `style.css` Copy / Salin Seluruhnya Kemudian Paste / Tempel Pada Kolom `CSS` di halaman pengaturan overlay saweria
-8. Klik `Simpan Tampilan` & Custom Saweria Overlay Anda Siap Digunakan 
+    Kemudian Paste / Tempel pada kolom `HTML` di halaman pengaturan overlay saweria ( Jika kolom HTML tidak kosong , Harap kosongi terlebih dahulu / Replace saja dengan yang telah ada Copy / Salin )
+5. Klik File `style.css` Copy / Salin seluruhnya kemudian Paste / Tempel pada kolom `CSS` di halaman pengaturan overlay saweria
+6. Pada kolom `Durasi Notifikasi (ms)` isikan minimal `10000` ( 10 detik)
+7. Klik `Simpan Tampilan` & Custom Saweria Overlay anda siap digunakan 
 
-### Setup OBS
+[-] Tambahan ( Animasi )
+
+1. [Buka Folder Animation](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/animation)
+2. Pilih Tipe Animasi
+    - Container ( Keseluruhan Overlay )
+    - Text ( Hanya Text nya Saja )
+3. Klik File Model Animasi Yang Di Inginkan
+4. Copy / Salin Seluruhnya Kemudian Paste / Tempel pada kolom `CSS` di halaman pengaturan overlay saweria ( Paste / Tempel dibawah CSS tema [ Jangan di Replace ] )
+
+### [+] Setup OBS ( WAJIB )
+Setelah merubah tampilan overlay , single click pada browser source Overlay Saweria di OBS dan tekan "Refresh" atau double click dan tekan "Refresh cache of current page".
+
+Jika tidak tampil, pastikan OBS telah terupdate ke versi terbaru (v28).
+<br><br><br><br>
 
 # Theme Preview
 
