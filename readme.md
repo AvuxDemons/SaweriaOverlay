@@ -23,7 +23,7 @@ Berikut merupakan cara menggunakan Custom Overlay Saweria
     ![Select](https://media.discordapp.net/attachments/972016247795515454/1126400261649338408/image.png)
 4. Klik File `index.html` Dan Copy / Salin seluruhnya atau mulai dari `<div> sampai </div>`
     ![copy html](https://cdn.discordapp.com/attachments/972016247795515454/1126400984889954384/image.png)
-    Kemudian Paste / Tempel pada kolom `HTML` di halaman pengaturan overlay saweria ( Jika kolom HTML tidak kosong , Harap kosongi terlebih dahulu / Replace saja dengan yang telah ada Copy / Salin )
+    Kemudian Paste / Tempel pada kolom `HTML` di halaman pengaturan overlay saweria ( Jika kolom HTML tidak kosong , Harap kosongi terlebih dahulu / Replace saja dengan yang telah anda Copy / Salin )
 5. Klik File `style.css` Copy / Salin seluruhnya kemudian Paste / Tempel pada kolom `CSS` di halaman pengaturan overlay saweria
 6. Pada kolom `Durasi Notifikasi (ms)` isikan minimal `10000` ( 10 detik)
 7. Klik `Simpan Tampilan` & Custom Saweria Overlay anda siap digunakan 
