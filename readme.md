@@ -4,8 +4,23 @@
 
 Tingkatkan pengalaman donasi Anda dengan Saweria Custom Overlay Donation Alert! Ubah tampilan dan pesan donasi secara kreatif, sampaikan apresiasi secara real-time, dan buat pengalaman donasi yang tak terlupakan. Coba sekarang dan berikan sentuhan khusus pada setiap donasi yang masuk!
 
+# Documentation
+* [Setup](#installation)
+    - [Saweria](#saweria)
+    - [Tema](#tema)
+    - [OBS](#setup-obs--wajib)
+* [List Tema](#theme-preview)
+* [Configuration](#configuration)
+    - [Background Images](#background-images)
+    - [Custom Mascot](#custom-mascot)
+    - [Custom Text](#custom-text)
+    - [Custom Color](#custom-color)
+* [Miscellaneous](#miscellaneous)
+    - [Contributing](#contributing)
+    - [Theme Requests](#theme-requests)
+    - [Feature Requests](#contributions)
 
-# Usage / Installation
+# Installation
 
 Berikut merupakan cara menggunakan Custom Overlay Saweria
 #### Video : [Tonton Video Tutorial Di Youtube](https://youtu.be/I2QZUQXBTsE)
@@ -101,35 +116,68 @@ Jika tidak tampil, pastikan OBS telah terupdate ke versi terbaru (v28).
 
 ![yui](https://media.discordapp.net/attachments/972016247795515454/1126388126332502047/yui.png)
 
----
-
-# Documentation
-* [Configuration](#configuration)
-    - [Background Images](#background-images)
-    - [Custom Mascot](#custom-mascot)
-    - [Custom Text](#custom-text)
-    - [Custom Color](#custom-color)
-* [Miscellaneous](#miscellaneous)
-    - [Contributing](#contributing)
-    - [Theme Requests](#theme-requests)
-    - [Feature Requests](#contributions)
 # Configuration
 
 ## Background Images
+Anda dapat mengubah background Overlay anda
+1. Cari bagian berikut pada file `index.html`
+    ```
+    <div class="container">
+        <img alt="Background Image" src="https://domain.com/image.jpg" class="background-img">
 
-* SOON
+        <!-- code -->
+    </div>
+    ```
+2. Silahkan Replace url pada bagian `src=" Taruh URL Gambar Background Anda Disini "`
 
 ## Custom Mascot
 
-* SOON
+1. Cari bagian berikut pada file `index.html`
+    ```
+    <div class="container">
+        <!-- code  -->
+
+            <div class="mascot">
+                <img src="https://domain.com/image.jpg">
+            </div>
+        
+        <!-- code -->
+    </div>
+    ```
+2. Silahkan Replace url pada bagian `src=" Taruh URL Gambar Mascot Anda Disini "`
 
 ## Custom Text
 
-* SOON
+1. Cari bagian berikut pada file `index.html`
+    ```
+    <div class="container">
+        <!-- code -->
+
+            <div class="text">
+                <p>
+                    <span class="saweria">{amount}</span> Dari <span class="saweria">{donator}</span>
+                </p>
+                <p>
+                    <span class="message">
+                        {message}
+                    </span>
+                </p>
+
+        <!-- code -->
+    </div>
+    ```
+2. Anda dapat merubah teks yg tidak berada di dalam `<span> - </span>` sesuai dengan keinginan anda.
+
+Note* berikut beberapa token yang disediakan oleh Saweria
+- `{media}`
+- `{message}`
+- `{donator}`
+- `{amount}`
 
 ## Custom Color
 
 * SOON
+
 # Miscellaneous
 
 ## Contributing
@@ -142,4 +190,4 @@ Tidak menemukan overlay dengan tema keinginan anda ? Silahkan untuk [submit them
 
 ## Feature Requests
 
-Anda memiliki saran / fitur untuk Repository ini ? Silahkan untuk [submit feature request](https://github.com/AvuxDemons/SaweriaOverlay/issues).
+Anda memiliki saran fitur untuk Repository ini ? Silahkan untuk [submit feature request](https://github.com/AvuxDemons/SaweriaOverlay/issues).
