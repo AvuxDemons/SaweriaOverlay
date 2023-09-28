@@ -75,7 +75,7 @@
 }
 
 .donator {
-    color: var(--amount);
+    color: var(--donator);
 }
 
 .text {

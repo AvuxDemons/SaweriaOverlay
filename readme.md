@@ -155,7 +155,9 @@ Anda dapat mengubah background Overlay anda
 
             <div class="text">
                 <p>
-                    <span class="saweria">{amount}</span> Dari <span class="saweria">{donator}</span>
+                    <span class="amount">{amount}</span>
+                    Dari 
+                <span class="donator">{donator}</span>
                 </p>
                 <p>
                     <span class="message">
