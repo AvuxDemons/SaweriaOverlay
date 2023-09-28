@@ -8,7 +8,7 @@
 
 .container {
     display: grid;
-    grid-template-columns: 1.5fr 8.5fr;
+    grid-template-columns: 2fr 8fr;
     gap: 20px;
     font-family: 'Poppins', sans-serif;
     position: relative;
@@ -60,7 +60,7 @@
 
 .text {
     position: relative;
-    max-width: 535px;
+    max-width: 600px;
     z-index: 3;
     text-align: center;
     font-size: 1.3rem;
