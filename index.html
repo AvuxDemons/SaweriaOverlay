@@ -1,27 +1,155 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Markdown Renderer</title>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-</head>
-<body>
-    <div id="markdown-content"></div>
 
-    <script>
-        async function renderMarkdown() {
-            try {
-                const response = await fetch('https://raw.githubusercontent.com/AvuxDemons/SaweriaOverlay/master/readme.md');
-                const markdownText = await response.text();
-                const markdownContent = document.getElementById('markdown-content');
+    <head>
+        <meta charset="UTF-8">
+        <title>SaweriaOverlay</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
-                markdownContent.innerHTML = marked(markdownText);
-            } catch (error) {
-                console.error('Error loading README.md:', error);
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+            body {
+                font-family: 'Poppins', sans-serif;
+                margin: 0% 30% 0% 30%;
             }
-        }
 
-        window.addEventListener('load', renderMarkdown);
-    </script>
-</body>
+            body.dark-theme {
+                background-color: #333;
+                color: #fff;
+            }
+
+            body.light-theme {
+                background-color: #fff;
+                color: #333;
+            }
+
+            body.light-theme pre {
+                background-color: #202020;
+                color: #fff;
+            }
+
+            body.dark-theme pre {
+                background-color: #202020;
+                color: #fff;
+            }
+
+            body.light-theme a {
+                color: #0077ff;
+            }
+
+            body.dark-theme a {
+                color: #00f7ff;
+            }
+
+            img {
+                max-width: 800px;
+            }
+
+            pre {
+                padding: 20px;
+                border-radius: 10px;
+            }
+
+            code {
+                background: #202020;
+                color: #fff;
+            }
+
+            .title {
+                text-align: center;
+                margin-top: 10%;
+                margin-bottom: 5%;
+            }
+
+            footer {
+                text-align: center;
+                margin: 10%;
+                font-weight: bold;
+            }
+
+            #theme-toggle {
+                position: fixed;
+                top: 20px;
+                right: 20px;
+                color: #ffffff;
+                background-color: #808080;
+                border-radius: 10px;
+                padding: 10px 20px 12px 20px;
+                cursor: pointer;
+            }
+
+            @media all and (min-width:960px) and (max-width: 1024px) {
+                body {
+                    margin: 30px !important;
+                }
+
+                .title {
+                    font-size: xx-large;
+                }
+
+                footer {
+                    font-size: xx-large;
+                }
+
+                #theme-toggle {
+                    font-size: xx-large;
+                    border-radius: 20px;
+                    padding: 10px 20px 15px 20px;
+                }
+            }
+        </style>
+
+    </head>
+
+    <body>
+        <div class="title">
+            <h1>SaweriaOverlay</h1>
+        </div>
+        <div id="markdown-content"></div>
+        <footer>
+            <p>
+                Custom Overlay Saweria Theme - Made With ♥ By <a href="https://instagram.com/d.avux">AvuxDemons</a>
+            </p>
+        </footer>
+
+        <button id="theme-toggle"><span id="theme"></span></button>
+
+        <script>
+            function setTheme(theme) {
+                document.body.classList.toggle('dark-theme', theme === 'dark');
+                document.body.classList.toggle('light-theme', theme === 'light');
+                localStorage.setItem('theme', theme);
+                document.getElementById('theme').innerHTML = theme.replace('light', '🌞 Light').replace('dark', '🌚 Dark');
+            }
+
+            function toggleTheme() {
+                const currentTheme = localStorage.getItem('theme');
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                setTheme(newTheme);
+            }
+
+            async function renderMarkdown() {
+                try {
+                    const response = await fetch('https://raw.githubusercontent.com/AvuxDemons/SaweriaOverlay/master/readme.md');
+                    const markdownText = await response.text();
+                    const markdownContent = document.getElementById('markdown-content');
+
+                    markdownContent.innerHTML = marked.parse(markdownText);
+                } catch (error) {
+                    console.error('Error loading README.md:', error);
+                }
+            }
+
+            const initialTheme = localStorage.getItem('theme') || 'light';
+            setTheme(initialTheme);
+
+            window.addEventListener('load', renderMarkdown);
+
+            const themeToggleBtn = document.getElementById('theme-toggle');
+            themeToggleBtn.addEventListener('click', toggleTheme);
+        </script>
+
+    </body>
+
 </html>

@@ -209,4 +209,4 @@ Anda memiliki saran fitur untuk Repository ini ? Silahkan untuk [submit feature 
 
 ## Commission
 
-Ingin memiliki tema pribadi yang sesuai dengan keinginan anda ? [submit commission request](https://instagram.com/d.avux).
+Ingin memiliki tema pribadi yang sesuai dengan keinginan anda ? Silahkan untuk [submit commission request](https://instagram.com/d.avux).
