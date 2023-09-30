@@ -52,8 +52,10 @@ Berikut merupakan cara menggunakan Custom Overlay Saweria
 3. Klik File Model Animasi Yang Di Inginkan
 4. Copy / Salin Seluruhnya Kemudian Paste / Tempel pada kolom `CSS` di halaman pengaturan overlay saweria ( Paste / Tempel dibawah CSS tema [ Jangan di Replace ] )
 
-### [+] Setup OBS ( WAJIB )
-Setelah merubah tampilan overlay , single click pada browser source Overlay Saweria di OBS dan tekan "Refresh" atau double click dan tekan "Refresh cache of current page".
+### [+] Setup OBS / SL OBS ( WAJIB )
+
+**MINIMUM** Source Properties [ Width - `1000` ]  & [ Height - `600` ] <br>
+Setelah merubah tampilan overlay , single click pada browser source Overlay Saweria di OBS dan tekan `Refresh` atau double click dan tekan `Refresh cache of current page`.
 
 Jika tidak tampil, pastikan OBS telah terupdate ke versi terbaru (v28).
 <br><br><br><br>
@@ -157,7 +159,7 @@ Anda dapat mengubah background Overlay anda
                 <p>
                     <span class="amount">{amount}</span>
                     Dari 
-                <span class="donator">{donator}</span>
+                    <span class="donator">{donator}</span>
                 </p>
                 <p>
                     <span class="message">
