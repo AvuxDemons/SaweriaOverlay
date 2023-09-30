@@ -35,7 +35,7 @@ Berikut merupakan cara menggunakan Custom Overlay Saweria
     
 ### [+] Tema
 2. Pilih tema Custom Saweria Overlay pada [Theme Preview](#theme-preview)
-3. Klik Pada nama tema yang akan digunakan 
+3. Klik pada nama tema yang akan digunakan 
     ![Select](https://media.discordapp.net/attachments/972016247795515454/1126400261649338408/image.png)
 4. Klik File `index.html` Dan Copy / Salin seluruhnya atau mulai dari `<div> sampai </div>`
     ![copy html](https://cdn.discordapp.com/attachments/972016247795515454/1126400984889954384/image.png)
@@ -114,9 +114,9 @@ Anda dapat mengubah background Overlay anda
         <!-- code -->
     </div>
     ```
-2. Anda dapat merubah teks yg tidak berada di dalam `<span> - </span>` sesuai dengan keinginan anda.
+2. Anda dapat merubah teks yg tidak berada di dalam `<span> - </span>` sesuai dengan keinginan anda .
 
-Note* berikut beberapa token yang disediakan oleh Saweria
+Note* berikut beberapa token yang disediakan oleh Saweria untuk teks yang berada di dalam `<span> - </span>`
 - `{media}`
 - `{message}`
 - `{donator}`
@@ -124,8 +124,15 @@ Note* berikut beberapa token yang disediakan oleh Saweria
 
 ## Custom Color
 
-* SOON
-
+1. Cari bagian berikut pada file `style.css`
+    ```
+    :root {
+        --amount: rgb(223, 168, 102);
+        --donator: rgb(223, 168, 102);
+        --text: #ffffff;
+    }
+    ```
+2. Ubah dengan warna yang sesuai dengan keinginan anda. Gunakan [Color Conversion](https://imagecolorpicker.com/color-code/ffffff) jika anda tidak mengetahui code warna. Anda dapat menggunakan semua konversi yang ada pada web tersebut. ( disarankan menggunakan HEX Color )
 <br>
 
 # Theme Preview
