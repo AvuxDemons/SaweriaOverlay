@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Markdown Renderer</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div id="markdown-content"></div>
+
+    <script>
+        async function renderMarkdown() {
+            try {
+                const response = await fetch('https://raw.githubusercontent.com/AvuxDemons/SaweriaOverlay/master/readme.md');
+                const markdownText = await response.text();
+                const markdownContent = document.getElementById('markdown-content');
+
+                markdownContent.innerHTML = marked(markdownText);
+            } catch (error) {
+                console.error('Error loading README.md:', error);
+            }
+        }
+
+        window.addEventListener('load', renderMarkdown);
+    </script>
+</body>
+</html>
