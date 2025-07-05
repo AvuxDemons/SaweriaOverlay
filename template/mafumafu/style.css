@@ -57,6 +57,14 @@
     filter: drop-shadow(3px 0 4px rgba(0, 0, 0, 0.8));
 }
 
+.media {
+    max-width: 180px;
+    position: relative;
+    margin: 10px auto;
+    display: flex;
+    z-index: 3;
+}
+
 .text {
     position: relative;
     max-width: calc(70 / 100 * 750px);

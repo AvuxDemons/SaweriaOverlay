@@ -44,8 +44,8 @@
 
 .mascot {
     position: absolute;
-    top: -131px;
-    right: -85px;
+    top: -130px;
+    right: -75px;
     transform: translateX(-50%);
     display: flex;
     justify-content: center;
@@ -56,6 +56,14 @@
     max-width: 35%;
     height: auto;
     filter: drop-shadow(3px 0 4px rgba(0, 0, 0, 0.8));
+}
+
+.media {
+    max-width: 180px;
+    position: relative;
+    margin: 10px auto;
+    display: flex;
+    z-index: 3;
 }
 
 .text {
