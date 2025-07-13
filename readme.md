@@ -4,22 +4,24 @@
 
 Tingkatkan pengalaman donasi Anda dengan Saweria Custom Overlay Donation Alert! Ubah tampilan dan pesan donasi secara kreatif, sampaikan apresiasi secara real-time, dan buat pengalaman donasi yang tak terlupakan. Coba sekarang dan berikan sentuhan khusus pada setiap donasi yang masuk!
 
+Need Support ? Join Our [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/J2eXYs2UDm) Server
+
 # Documentation
 * [Setup](#installation)
     - [Saweria](#saweria)
     - [Tema](#tema)
     - [OBS](#setup-obs--wajib)
+* [List Tema](#theme-preview)
 * [Configuration](#configuration)
     - [Background Images](#background-images)
     - [Custom Mascot](#custom-mascot)
     - [Custom Text](#custom-text)
     - [Custom Color](#custom-color)
-* [List Tema](#theme-preview)
 * [Miscellaneous](#miscellaneous)
-    - [Contributing](#contributing)
     - [Theme Requests](#theme-requests)
-    - [Feature Requests](#contributions)
     - [Commission](#commission)
+    - [Feature Requests](#contributions)
+    - [Contributing](#contributing)
 # Installation
 
 Berikut merupakan cara menggunakan Custom Overlay Saweria
@@ -71,12 +73,125 @@ Kemudian Paste / Tempel pada kolom `HTML` di halaman pengaturan overlay saweria 
 
 ### [+] Setup OBS / SL OBS ( WAJIB )
 
-**MINIMUM** Source Properties [ Width - `1000` ]  & [ Height - `600` ] <br>
+**MINIMUM** - Source Properties [ Width - `1000 px` ]  & [ Height - `600 px` ] <br>
+**RECOMMENDED** - Source Properties [ Width - `1920 px` ]  & [ Height - `1080 px` ] <br>
+
 Setelah merubah tampilan overlay , single click pada browser source Overlay Saweria di OBS dan tekan `Refresh` atau double click dan tekan `Refresh cache of current page` .
 
 Jika tidak tampil, pastikan OBS telah terupdate ke versi terbaru (v28).
 
 <br>
+
+# Theme Preview
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; ">
+<div>
+
+### [Anya Peeking | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
+
+![anya_peek](https://ik.imagekit.io/avux/SaweriaOverlay/anyapeek_DCyjZz4zA.png)
+
+</div>
+<div>
+
+### [Anya Waku | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
+
+![anya_waku](https://ik.imagekit.io/avux/SaweriaOverlay/anyawaku_l3NQ_xvQO.png)
+
+</div>
+<div>
+
+### [Azusa](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/azusa)
+
+![azusa](https://ik.imagekit.io/avux/SaweriaOverlay/azusa_WTBnEdq5N.png)
+
+</div>
+<div>
+
+### [Emilia](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/emilia)
+
+![emilia](https://ik.imagekit.io/avux/SaweriaOverlay/emilia_u4MpQ6Z5S.png)
+
+</div>
+<div>
+
+### [Gojo | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/gojo)
+
+![gojo](https://ik.imagekit.io/avux/SaweriaOverlay/gojo_b1LuJhH2U.png)
+
+</div>
+<div>
+
+### [JDM](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/jdm)
+
+![jdm](https://ik.imagekit.io/avux/SaweriaOverlay/jdm_XhAeLbXPEA.png)
+
+</div>
+<div>
+
+### [Mio](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mio)
+
+![mio](https://ik.imagekit.io/avux/SaweriaOverlay/mio_baJocJmkbj.png)
+
+</div>
+<div>
+
+### [Mugi](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mugi)
+
+![mugi](https://ik.imagekit.io/avux/SaweriaOverlay/mugi_fAG2H0Pttc.png)
+
+</div>
+<div>
+
+### [Nezuko | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/nezuko)
+
+![nezuko](https://ik.imagekit.io/avux/SaweriaOverlay/nezuko_AUmnEgOu5.png)
+
+</div>
+<div>
+
+### [Osakana | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/osakana)
+
+![osakana](https://ik.imagekit.io/avux/SaweriaOverlay/osakana_651NoORYC.png)
+
+</div>
+<div>
+
+### [Rem](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/rem)
+
+![rem](https://ik.imagekit.io/avux/SaweriaOverlay/rem_IWbx3QbcWi.png)
+
+</div>
+<div>
+
+### [Ritsu](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/ritsu)
+
+![ritsu](https://ik.imagekit.io/avux/SaweriaOverlay/ritsu_AfenUkPP5.png)
+
+</div>
+<div>
+
+### [Sakura](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/sakura)
+
+![sakura](https://ik.imagekit.io/avux/SaweriaOverlay/sakura_ozl5F_LtDi.png)
+
+</div>
+<div>
+
+### [Yui](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/yui)
+
+![yui](https://ik.imagekit.io/avux/SaweriaOverlay/yui_v1791gIcE.png)
+
+</div>
+<div>
+
+### [Submit Your's](#contributing)
+
+![Submit Theme](https://placehold.co/1000x250?text=Submit%20Tema%20Kamu%20Untuk\n%20Dapat%20Ditampilkan%20Disini)
+
+</div>
+
+</div>
 
 # Configuration
 
@@ -152,7 +267,6 @@ Note* berikut beberapa token yang disediakan oleh Saweria untuk teks yang berada
 ## Custom Color
 
 1. Cari bagian berikut pada file `style.css`
-    
 
 ```
     :root {
@@ -165,78 +279,25 @@ Note* berikut beberapa token yang disediakan oleh Saweria untuk teks yang berada
 2. Ubah dengan warna yang sesuai dengan keinginan anda. Gunakan [Color Conversion](https://imagecolorpicker.com/color-code/ffffff) jika anda tidak mengetahui code warna. Anda dapat menggunakan semua konversi yang ada pada web tersebut. ( disarankan menggunakan HEX Color )
 <br>
 
-# Theme Preview
-
-### [Anya Peeking | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
-
-![anya_peek](https://ik.imagekit.io/avux/SaweriaOverlay/anyapeek_DCyjZz4zA.png)
-
-### [Anya Waku | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
-
-![anya_waku](https://ik.imagekit.io/avux/SaweriaOverlay/anyawaku_l3NQ_xvQO.png)
-
-### [Azusa](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/azusa)
-
-![azusa](https://ik.imagekit.io/avux/SaweriaOverlay/azusa_WTBnEdq5N.png)
-
-### [Emilia](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/emilia)
-
-![emilia](https://ik.imagekit.io/avux/SaweriaOverlay/emilia_u4MpQ6Z5S.png)
-
-### [Gojo | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/gojo)
-
-![gojo](https://ik.imagekit.io/avux/SaweriaOverlay/gojo_b1LuJhH2U.png)
-
-### [JDM](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/jdm)
-
-![jdm](https://ik.imagekit.io/avux/SaweriaOverlay/jdm_XhAeLbXPEA.png)
-
-### [Mio](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mio)
-
-![mio](https://ik.imagekit.io/avux/SaweriaOverlay/mio_baJocJmkbj.png)
-
-### [Mugi](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mugi)
-
-![mugi](https://ik.imagekit.io/avux/SaweriaOverlay/mugi_fAG2H0Pttc.png)
-
-### [Nezuko | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/nezuko)
-
-![nezuko](https://ik.imagekit.io/avux/SaweriaOverlay/nezuko_AUmnEgOu5.png)
-
-### [Osakana | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/osakana)
-
-![osakana](https://ik.imagekit.io/avux/SaweriaOverlay/osakana_651NoORYC.png)
-
-### [Rem](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/rem)
-
-![rem](https://ik.imagekit.io/avux/SaweriaOverlay/rem_IWbx3QbcWi.png)
-
-### [Ritsu](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/ritsu)
-
-![ritsu](https://ik.imagekit.io/avux/SaweriaOverlay/ritsu_AfenUkPP5.png)
-
-### [Sakura](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/sakura)
-
-![sakura](https://ik.imagekit.io/avux/SaweriaOverlay/sakura_ozl5F_LtDi.png)
-
-### [Yui](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/yui)
-
-![yui](https://ik.imagekit.io/avux/SaweriaOverlay/yui_v1791gIcE.png)
-
 # Miscellaneous
 
-## Contributing
+Soon
 
-Repository ini dibuka untuk umum , Anda dapat berkontribusi juga pada Repository ini.
+## Commission
+
+Ingin memiliki tema pribadi yang sesuai dengan keinginan anda ? Silahkan untuk [submit commission request](https://instagram.com/d.avux).
 
 ## Theme Requests
 
-Tidak menemukan overlay dengan tema keinginan anda ? Silahkan untuk [submit theme request](https://github.com/AvuxDemons/SaweriaOverlay/issues).
+Tidak menemukan overlay dengan tema keinginan anda ? Silahkan untuk submit theme request anda di
+* [Discord](https://discord.gg/J2eXYs2UDm)
+* [Github](https://github.com/AvuxDemons/SaweriaOverlay/issues)
 
 ## Feature Requests
 
 Anda memiliki saran fitur untuk Repository ini ? Silahkan untuk [submit feature request](https://github.com/AvuxDemons/SaweriaOverlay/issues).
 
-## Commission
+## Contributing
 
-Ingin memiliki tema pribadi yang sesuai dengan keinginan anda ? Silahkan untuk [submit commission request](https://instagram.com/d.avux).
+Repository ini dibuka untuk umum , Anda dapat berkontribusi juga pada Repository ini.<br>
+Informasi lebih lanjut bisa ditanyakan via [Discord](https://discord.gg/J2eXYs2UDm)
