@@ -35,6 +35,7 @@ Berikut merupakan cara menggunakan Custom Overlay Saweria
 ### [+] Saweria
 
 1. Cara akses Custom Overlay Saweria
+
     
 
 ![anya_peek](https://saweria.co/custom-overlay-access.png)
@@ -47,11 +48,13 @@ Buka halaman [pengaturan overlay saweria](https://saweria.co/overlays) pada tabs
 
 2. Pilih tema Custom Saweria Overlay pada [Theme Preview](#theme-preview)
 3. Klik pada nama tema yang akan digunakan 
+
     
 
 ![Select](https://ik.imagekit.io/avux/SaweriaOverlay/image12131_1ZEe9zWge.png)
 
 4. Klik File `index.html` Dan Copy / Salin seluruhnya atau mulai dari `<div> sampai </div>`
+
     
 
 ![copy html](https://ik.imagekit.io/avux/SaweriaOverlay/image4141_163rSzaQt.png)
@@ -84,114 +87,65 @@ Jika tidak tampil, pastikan OBS telah terupdate ke versi terbaru (v28).
 
 # Theme Preview
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; ">
-<div>
-
 ### [Anya Peeking | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
 
 ![anya_peek](https://ik.imagekit.io/avux/SaweriaOverlay/anyapeek_DCyjZz4zA.png)
-
-</div>
-<div>
 
 ### [Anya Waku | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/anya_peek)
 
 ![anya_waku](https://ik.imagekit.io/avux/SaweriaOverlay/anyawaku_l3NQ_xvQO.png)
 
-</div>
-<div>
-
 ### [Azusa](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/azusa)
 
 ![azusa](https://ik.imagekit.io/avux/SaweriaOverlay/azusa_WTBnEdq5N.png)
-
-</div>
-<div>
 
 ### [Emilia](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/emilia)
 
 ![emilia](https://ik.imagekit.io/avux/SaweriaOverlay/emilia_u4MpQ6Z5S.png)
 
-</div>
-<div>
-
 ### [Gojo | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/gojo)
 
 ![gojo](https://ik.imagekit.io/avux/SaweriaOverlay/gojo_b1LuJhH2U.png)
-
-</div>
-<div>
 
 ### [JDM](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/jdm)
 
 ![jdm](https://ik.imagekit.io/avux/SaweriaOverlay/jdm_XhAeLbXPEA.png)
 
-</div>
-<div>
-
 ### [Mio](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mio)
 
 ![mio](https://ik.imagekit.io/avux/SaweriaOverlay/mio_baJocJmkbj.png)
-
-</div>
-<div>
 
 ### [Mugi](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/mugi)
 
 ![mugi](https://ik.imagekit.io/avux/SaweriaOverlay/mugi_fAG2H0Pttc.png)
 
-</div>
-<div>
-
 ### [Nezuko | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/nezuko)
 
 ![nezuko](https://ik.imagekit.io/avux/SaweriaOverlay/nezuko_AUmnEgOu5.png)
-
-</div>
-<div>
 
 ### [Osakana | GIF](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/osakana)
 
 ![osakana](https://ik.imagekit.io/avux/SaweriaOverlay/osakana_651NoORYC.png)
 
-</div>
-<div>
-
 ### [Rem](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/rem)
 
 ![rem](https://ik.imagekit.io/avux/SaweriaOverlay/rem_IWbx3QbcWi.png)
-
-</div>
-<div>
 
 ### [Ritsu](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/ritsu)
 
 ![ritsu](https://ik.imagekit.io/avux/SaweriaOverlay/ritsu_AfenUkPP5.png)
 
-</div>
-<div>
-
 ### [Sakura](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/sakura)
 
 ![sakura](https://ik.imagekit.io/avux/SaweriaOverlay/sakura_ozl5F_LtDi.png)
-
-</div>
-<div>
 
 ### [Yui](https://github.com/AvuxDemons/SaweriaOverlay/tree/master/template/yui)
 
 ![yui](https://ik.imagekit.io/avux/SaweriaOverlay/yui_v1791gIcE.png)
 
-</div>
-<div>
-
 ### [Submit Your's](#contributing)
 
 ![Submit Theme](https://placehold.co/1000x250?text=Submit%20Tema%20Kamu%20Untuk\n%20Dapat%20Ditampilkan%20Disini)
-
-</div>
-
-</div>
 
 # Configuration
 
@@ -199,6 +153,7 @@ Jika tidak tampil, pastikan OBS telah terupdate ke versi terbaru (v28).
 
 Anda dapat mengubah background Overlay anda
 1. Cari bagian berikut pada file `index.html`
+
     
 
 ```
@@ -214,6 +169,7 @@ Anda dapat mengubah background Overlay anda
 ## Custom Mascot
 
 1. Cari bagian berikut pada file `index.html`
+
     
 
 ```
@@ -233,6 +189,7 @@ Anda dapat mengubah background Overlay anda
 ## Custom Text
 
 1. Cari bagian berikut pada file `index.html`
+
     
 
 ```
